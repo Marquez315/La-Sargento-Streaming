@@ -4,7 +4,7 @@
   "subtitle": "Tecnología, juegos, aprendizaje",
   "author": "Colegio Secundario de Adolescentes y Adultos Sargento Juan B",
   "bio": "Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral",
-  "theme": "youtube",
+  "theme": "comic",
   "links": [
     {
       "label": "codeclubñanduti",
@@ -16,6 +16,6 @@
     }
   ],
   "templateVersion": 1,
-  "updated": 1790409648756,
+  "updated": 1790409723751,
   "avatar": "images/site/avatar-mui04by5.jpg"
 }

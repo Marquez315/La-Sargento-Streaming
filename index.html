@@ -460,7 +460,7 @@ html[data-theme="revista90"] .foot{font-family:var(--f-type);text-transform:uppe
 html[data-theme="comic"] .wrap{max-width:1300px}
 html[data-theme="comic"] .profile{text-align:center;background:var(--panel);padding:26px 16px;animation:comic-pop .35s ease both}
 html[data-theme="comic"] .kicker{display:inline-block;font-family:var(--f-px);font-size:15px;letter-spacing:.05em;color:var(--ink);background:var(--a3);border:3px solid var(--ink);border-radius:999px;padding:2px 16px;transform:rotate(-2deg)}
-html[data-theme="comic"] .avatar{width:80px;height:80px;border-radius:50%;border:4px solid var(--ink);box-shadow:4px 4px 0 var(--ink)}
+html[data-theme="comic"] .avatar{width:clamp(90px,11vw,170px);height:clamp(90px,11vw,170px);border-radius:50%;border:4px solid var(--ink);box-shadow:4px 4px 0 var(--ink)}
 html[data-theme="comic"] .profile h1.px-title{font-family:var(--f-px);font-size:clamp(38px,9vw,72px);letter-spacing:.02em;color:var(--a1);-webkit-text-stroke:2px var(--ink);text-shadow:3px 3px 0 var(--ink)}
 html[data-theme="comic"] .profile .sub{font-family:var(--f-body);font-weight:700;font-size:20px;color:var(--ink)}
 html[data-theme="comic"] .bio{font-size:19px;max-width:62ch;margin:14px auto 0}
@@ -487,7 +487,8 @@ html[data-theme="comic"] figcaption{font-family:var(--f-body);font-weight:700;fo
 html[data-theme="comic"] .callout{background:#fff;font-family:var(--f-px);font-size:19px;border-radius:20px 20px 20px 4px;position:relative}
 html[data-theme="comic"] .callout::before{content:"💥";font-size:20px;top:-14px;left:16px;background:var(--a3);border:3px solid var(--ink);border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center}
 html[data-theme="comic"] .pn a{border-radius:8px;background:var(--panel)}
-html[data-theme="comic"] .foot{font-family:var(--f-body);font-weight:700}
+html[data-theme="comic"] .foot{font-family:var(--f-body);font-weight:700;color:var(--ink2)}
+html[data-theme="comic"] .share-row .lbl{color:var(--ink2)}
 
 @media (min-width:760px){
   html[data-theme="revista90"] .blocks{column-count:2;column-gap:32px;max-width:840px}

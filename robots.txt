@@ -7,7 +7,7 @@
   </url>
   <!-- Agregá una entrada más por cada entrada del blog, por ejemplo: -->
   <url>
-    <loc>https://marquez315.github.io/La-Sargento-Streaming/</loc>
+    <loc>https://marquez315.github.io/La-Sargento-Streaming/#/post/2025-11-10-la-sargento-streaming</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

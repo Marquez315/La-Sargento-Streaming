@@ -217,7 +217,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:0;paddin
 html[data-theme="consola"] :focus-visible,html[data-theme="nanduti"] :focus-visible{outline-color:var(--a1)}
 img{max-width:100%;display:block}
 [hidden]{display:none!important}
-.wrap{max-width:980px;margin:0 auto;padding:22px 16px 40px}
+.wrap{max-width:1400px;margin:0 auto;padding:22px clamp(16px,4vw,64px) 40px}
 
 /* ===== Piezas retro ===== */
 .px{border:3px solid var(--line);box-shadow:5px 5px 0 var(--line);background:var(--panel)}
@@ -263,7 +263,7 @@ html[data-theme="gameboy"] .links .btn{background:var(--a1);color:var(--bg)}
 .search::placeholder{color:var(--ink2)}
 
 /* ===== Grilla tipo feed ===== */
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
 .tile{position:relative;display:block;aspect-ratio:1;border:3px solid var(--line);background:var(--screen);color:var(--screen-ink);overflow:hidden;text-decoration:none;box-shadow:4px 4px 0 var(--line)}
 .tile:hover{transform:translate(-2px,-2px);box-shadow:6px 6px 0 var(--line)}
 .tile img{width:100%;height:100%;object-fit:cover}
@@ -348,7 +348,7 @@ html[data-theme="consola"] .foot,html[data-theme="gameboy"] .foot{color:var(--in
 @keyframes d90-clip{from{opacity:0;transform:translateY(16px) rotate(var(--r,0deg)) scale(.95)}to{opacity:1;transform:translateY(0) rotate(var(--r,0deg)) scale(1)}}
 @keyframes d90-develop{from{opacity:0;filter:saturate(1.1) contrast(1.5) brightness(.55) blur(3px)}to{opacity:1;filter:saturate(1.1) contrast(1.08) brightness(1) blur(0)}}
 @keyframes d90-flicker{0%,100%{opacity:.9}50%{opacity:1}}
-html[data-theme="diario90"] .wrap{max-width:900px}
+html[data-theme="diario90"] .wrap{max-width:1200px}
 html[data-theme="diario90"] .px-title{font-weight:900}
 html[data-theme="diario90"] .kicker{display:block;font-family:var(--f-type);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);border-top:1px solid var(--ink2);border-bottom:1px solid var(--ink2);padding:5px 0;margin:12px auto 0;max-width:560px;text-align:center;animation:d90-flicker 5s ease-in-out infinite}
 html[data-theme="diario90"] .profile{display:block;text-align:center;border:0;border-top:7px double var(--ink);border-bottom:2px solid var(--ink);box-shadow:none;background:var(--panel);padding:24px 16px 22px;animation:d90-drop .6s cubic-bezier(.2,.8,.2,1) both}
@@ -407,7 +407,7 @@ html[data-theme="diario90"] #lb img{filter:saturate(1.1) contrast(1.1)}
 }
 
 /* ===== Revista 90 · efectos ===== */
-html[data-theme="revista90"] .wrap{max-width:920px}
+html[data-theme="revista90"] .wrap{max-width:1300px}
 html[data-theme="revista90"] .profile{text-align:center;border:0;background:var(--panel);padding:26px 16px;position:relative;overflow:hidden}
 html[data-theme="revista90"] .profile::before{content:"";position:absolute;left:0;right:0;top:0;height:10px;background:linear-gradient(90deg,var(--a1),var(--a2),var(--a3),var(--a4))}
 html[data-theme="revista90"] .kicker{display:inline-block;font-family:var(--f-type);font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#fff;background:var(--a1);padding:4px 14px;border-radius:999px;margin-bottom:10px}
@@ -436,7 +436,7 @@ html[data-theme="revista90"] .foot{font-family:var(--f-type);text-transform:uppe
 
 /* ===== Cómic · efectos ===== */
 @keyframes comic-pop{from{opacity:0;transform:scale(.85) rotate(-3deg)}to{opacity:1;transform:scale(1) rotate(0deg)}}
-html[data-theme="comic"] .wrap{max-width:920px}
+html[data-theme="comic"] .wrap{max-width:1300px}
 html[data-theme="comic"] .profile{text-align:center;background:var(--panel);padding:26px 16px;animation:comic-pop .35s ease both}
 html[data-theme="comic"] .kicker{display:inline-block;font-family:var(--f-px);font-size:15px;letter-spacing:.05em;color:var(--ink);background:var(--a3);border:3px solid var(--ink);border-radius:999px;padding:2px 16px;transform:rotate(-2deg)}
 html[data-theme="comic"] .avatar{width:80px;height:80px;border-radius:50%;border:4px solid var(--ink);box-shadow:4px 4px 0 var(--ink)}

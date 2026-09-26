@@ -7,7 +7,7 @@
 <title>Blog</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Special+Elite&family=Anton&family=Oswald:wght@400;500;600;700&family=Bangers&family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Special+Elite&family=Anton&family=Oswald:wght@400;500;600;700&family=Bangers&family=Comic+Neue:wght@400;700&family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 /* ===== Temas ===== */
 :root,html[data-theme="consola"]{
@@ -88,6 +88,41 @@ html[data-theme="comic"]{
   --screen:#0B0B0B; --screen-ink:#FFD60A;
   --f-px:'Bangers',cursive; --f-body:'Comic Neue','Comic Sans MS',cursive;
   --f-type:'Comic Neue','Comic Sans MS',cursive;
+}
+html[data-theme="netflix"]{
+  --bg:#141414; --panel:#1F1F1F; --ink:#FFFFFF; --ink2:#B3B3B3;
+  --a1:#E50914; --a2:#B20710; --a3:#F5F5F1; --a4:#564D4D; --a5:#0071EB; --on-a:#FFFFFF; --on-a3:#141414;
+  --screen:#000000; --screen-ink:#E50914;
+  --f-px:'Bebas Neue',Impact,sans-serif; --f-body:'Inter',Arial,sans-serif;
+  --f-type:'Inter',Arial,sans-serif;
+}
+html[data-theme="twitch"]{
+  --bg:#0E0E10; --panel:#18181B; --ink:#EFEFF1; --ink2:#ADADB8;
+  --a1:#9146FF; --a2:#772CE8; --a3:#EFEFF1; --a4:#00F593; --a5:#F03C6E; --on-a:#FFFFFF; --on-a3:#0E0E10;
+  --screen:#000000; --screen-ink:#9146FF;
+  --f-px:'Bebas Neue',Impact,sans-serif; --f-body:'Inter',Arial,sans-serif;
+  --f-type:'Inter',Arial,sans-serif;
+}
+html[data-theme="spotify"]{
+  --bg:#121212; --panel:#181818; --ink:#FFFFFF; --ink2:#B3B3B3;
+  --a1:#1DB954; --a2:#1ED760; --a3:#FFFFFF; --a4:#F0F0F0; --a5:#B3B3B3; --on-a:#000000; --on-a3:#121212;
+  --screen:#000000; --screen-ink:#1DB954;
+  --f-px:'Bebas Neue',Impact,sans-serif; --f-body:'Inter',Arial,sans-serif;
+  --f-type:'Inter',Arial,sans-serif;
+}
+html[data-theme="youtube"]{
+  --bg:#F9F9F9; --panel:#FFFFFF; --ink:#0F0F0F; --ink2:#606060;
+  --a1:#FF0000; --a2:#CC0000; --a3:#0F0F0F; --a4:#606060; --a5:#065FD4; --on-a:#FFFFFF; --on-a3:#FFFFFF;
+  --screen:#0F0F0F; --screen-ink:#FF0000;
+  --f-px:'Bebas Neue',Impact,sans-serif; --f-body:'Inter',Arial,sans-serif;
+  --f-type:'Inter',Arial,sans-serif;
+}
+html[data-theme="disneyplus"]{
+  --bg:#040714; --panel:#0F1E3C; --ink:#FFFFFF; --ink2:#A0AEC0;
+  --a1:#0F63FF; --a2:#01143C; --a3:#F9F9F9; --a4:#3D5AFE; --a5:#113CCF; --on-a:#FFFFFF; --on-a3:#0F1E3C;
+  --screen:#000000; --screen-ink:#0F63FF;
+  --f-px:'Bebas Neue',Impact,sans-serif; --f-body:'Inter',Arial,sans-serif;
+  --f-type:'Inter',Arial,sans-serif;
 }
 :root{
   --f-px:'Press Start 2P','Courier New',monospace;
@@ -532,7 +567,7 @@ function allTags(){var m={};posts.forEach(function(p){(p.tags||[]).forEach(funct
 
 /* ---------- vistas ---------- */
 var app=document.getElementById('app');
-var THEME_CHROME={consola:'pixel',gameboy:'pixel',arcade:'pixel',nanduti:'pixel',norton:'term',msdos:'term',fosforo:'term',ambar:'term',win31:'bevel',hotdog:'bevel',diario90:'paper',revista90:'mag',comic:'comic'};
+var THEME_CHROME={consola:'pixel',gameboy:'pixel',arcade:'pixel',nanduti:'pixel',norton:'term',msdos:'term',fosforo:'term',ambar:'term',win31:'bevel',hotdog:'bevel',diario90:'paper',revista90:'mag',comic:'comic',netflix:'mag',twitch:'mag',spotify:'mag',youtube:'mag',disneyplus:'mag'};
 var THEME_SCAN={fosforo:1,ambar:1};
 function applySite(){
   var th = THEME_CHROME.hasOwnProperty(site.theme) ? site.theme : 'diario90';

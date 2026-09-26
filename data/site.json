@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "title": "Blog-Code-club-Ñanduti - Didáctica aumentada",
+  "title": "La S@rgento Streaming",
   "subtitle": "Tecnología, juegos, aprendizaje",
-  "author": "Didáctica aumentada - Codeclub Ñanduti",
-  "bio": "\"Blog Code-club-Ñanduti - Didáctica aumentada - Trabajamos en desarrollos colaborativos y cooperativos, somos un equipo de Entusiastas de la educación informática, y de las innovaciones en Enseñanza-Educación. \"",
-  "theme": "diario90",
+  "author": "Colegio Secundario de Adolescentes y Adultos Sargento Juan B",
+  "bio": "Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral",
+  "theme": "nanduti",
   "links": [
-    {
-      "label": "didactica_aumentada3.0",
-      "url": "https://www.instagram.com/didactica_aumentada3.0/#"
-    },
     {
       "label": "codeclubñanduti",
       "url": "https://www.instagram.com/codeclubnanduti/#"
+    },
+    {
+      "label": "La S@rgento Streaming",
+      "url": "http://www.youtube.com/@CODECLUB%C3%91ANDUT%C3%8D"
     }
   ],
   "templateVersion": 1,
-  "updated": 1790397583499,
-  "avatar": "images/site/avatar-mucbor8v.jpg"
+  "updated": 1790397923242,
+  "avatar": "images/site/avatar-muhwp1ld.jpg"
 }

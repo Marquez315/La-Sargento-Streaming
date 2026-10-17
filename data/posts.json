@@ -2,6 +2,45 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia",
+      "title": "La Semana de la Ciencia y la Tecnología",
+      "date": "2026-10-30",
+      "tags": [
+        "redmakermisiones"
+      ],
+      "cover": "images/2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxw73q-1.jpg",
+      "summary": "",
+      "blocks": [
+        {
+          "type": "photos",
+          "images": [
+            {
+              "src": "images/2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxw73q-1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxw8js-2.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxw9nt-3.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxwax0-4.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-10-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxwc3l-5.jpg",
+              "caption": ""
+            }
+          ]
+        }
+      ],
+      "created": 1792213928036,
+      "updated": 1792213928036
+    },
+    {
       "id": "2026-09-30-asi-vivimos-la-sncyt-2026",
       "title": "¡Así vivimos la SNCyT 2026!",
       "date": "2026-09-30",

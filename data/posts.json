@@ -2,6 +2,46 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-09-30-asi-se-vivio-la-sncyt-2026-2",
+      "title": "🤖✨ ¡Así se vivió la SNCyT 2026! 🔬",
+      "date": "2026-09-30",
+      "tags": [
+        "usal_universidaddelsalvador",
+        "SNCYT2026",
+        "semana de la ciencia",
+        "robótica",
+        "impresión-3d",
+        "exposiciones"
+      ],
+      "cover": "images/2026-09-30-asi-se-vivio-la-sncyt-2026-2/mvby6prp-1.jpg",
+      "summary": "🤖✨ ¡Así se vivió la SNCyT 2026! 🔬 Durante la Semana de la Ciencia y la Tecnología, el Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabr",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "🤖✨ ¡Así se vivió la SNCyT 2026! 🔬\n\nDurante la Semana de la Ciencia y la Tecnología, el Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral recibió propuestas de robótica y tecnología que despertaron la curiosidad de todos. 💡\n\n🙏 Gracias @usal_universidaddelsalvador por participar y venir a compartir su proyecto con nuestros estudiantes. ¡Fue un placer recibirlos!\n\nGracias también a los chicos y chicas por animarse a preguntar, mirar de cerca y descubrir cómo funcionan estos desarrollos. 💚\n\n👉 Seguí a @codeclubnanduti para más actividades de programación, robótica y tecnología.\n\n#SNCyT2026 #SemanaDeLaCienciaYLaTecnología #Robótica #Tecnología"
+        },
+        {
+          "type": "photos",
+          "images": [
+            {
+              "src": "images/2026-09-30-asi-se-vivio-la-sncyt-2026-2/mvby6prp-1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-se-vivio-la-sncyt-2026-2/mvby6r95-2.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-se-vivio-la-sncyt-2026-2/mvby6see-3.jpg",
+              "caption": ""
+            }
+          ]
+        }
+      ],
+      "created": 1792214415631,
+      "updated": 1792214415631
+    },
+    {
       "id": "2026-09-30-asi-se-vivio-la-sncyt-2026",
       "title": "🤖🔬 ¡Así se vivió la SNCyT 2026! ✨",
       "date": "2026-09-30",

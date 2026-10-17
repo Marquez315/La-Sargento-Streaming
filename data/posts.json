@@ -2,6 +2,56 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte",
+      "title": "¡Gracias a todas y todos los que fueron parte!",
+      "date": "2026-09-30",
+      "tags": [
+        "SNCYT2026",
+        "exposiciones",
+        "semana de la ciencia"
+      ],
+      "cover": "images/2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte/mvbykvyb-1.jpg",
+      "summary": "🔬✨ ¡Así vivimos la Semana Nacional de la Ciencia y la Tecnología 2026! Fue un día para celebrar a quienes investigan, enseñan e innovan. Entre certificados, so",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "🔬✨ ¡Así vivimos la Semana Nacional de la Ciencia y la Tecnología 2026!\nFue un día para celebrar a quienes investigan, enseñan e innovan. Entre certificados, sonrisas y mucha emoción, reconocimos el trabajo de quienes hacen ciencia todos los días en nuestra comunidad. 🧪💡\n¡Gracias a todas y todos los que fueron parte! Seguimos construyendo conocimiento, juntos. 🚀\n📲 Seguinos en @didactica_aumentada3.0\n#SNCYT2026 #SemanaDeLaCiencia #Ciencia #Tecnología"
+        },
+        {
+          "type": "photos",
+          "images": [
+            {
+              "src": "images/2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte/mvbykvyb-1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte/mvbykxw2-2.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte/mvbykz7n-3.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte/mvbyl0ac-4.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-gracias-a-todas-y-todos-los-que-fueron-parte/mvbyl1m3-5.jpg",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "label": "¡Gracias a todas y todos los que fueron",
+          "url": "https://www.instagram.com/p/DeC0huIgdf0/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA=="
+        }
+      ],
+      "created": 1792215080709,
+      "updated": 1792215080709
+    },
+    {
       "id": "2026-09-30-asi-vivimos-la-sncyt-2026-2",
       "title": "¡Así vivimos la SNCyT 2026!",
       "date": "2026-09-30",

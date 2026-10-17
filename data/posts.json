@@ -2,6 +2,63 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia",
+      "title": "La Semana de la Ciencia y la Tecnología",
+      "date": "2026-09-30",
+      "tags": [
+        "SNCYT2026",
+        "Proyecta y Construye",
+        "semana de la ciencia"
+      ],
+      "cover": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxqyp3-1.jpg",
+      "summary": "🔬🤖 ¡Así vivimos la #SNCYT2026, la Semana de la Ciencia y la Tecnología, en el Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral! Real",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "🔬🤖 ¡Así vivimos la #SNCYT2026, la Semana de la Ciencia y la Tecnología, en el Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral!\n\nRealidad virtual, robots y creaciones con lápiz 3D: estudiantes y docentes se animaron a explorar la tecnología. ¡Gracias a todos los que participaron!\n\n#SemanaDeLaCienciaYLaTecnología #RealidadVirtual #Robótica EducaciónSecundaria Corrientes"
+        },
+        {
+          "type": "photos",
+          "images": [
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxqyp3-1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr0ai-2.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr1k5-3.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr2jk-4.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr3vk-5.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr59y-6.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr6t8-7.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia/mvbxr873-8.jpg",
+              "caption": ""
+            }
+          ]
+        }
+      ],
+      "created": 1792213689460,
+      "updated": 1792213689460
+    },
+    {
       "id": "2026-09-30-la-sargento-streaming",
       "title": "la sargento streaming",
       "date": "2026-09-30",

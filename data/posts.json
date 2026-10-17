@@ -2,6 +2,53 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-09-30-la-sargento-streaming",
+      "title": "la sargento streaming",
+      "date": "2026-09-30",
+      "tags": [
+        "La Sargento Streaming"
+      ],
+      "cover": "images/2026-09-30-la-sargento-streaming/mvbxokc2-1.jpg",
+      "summary": "🔬💻 ¡Así vivimos la #SNCYT2026, la Semana de la Ciencia y la Tecnología, en el Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral! Con ",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "🔬💻 ¡Así vivimos la #SNCYT2026, la Semana de la Ciencia y la Tecnología, en el Colegio Secundario de Adolescentes y Adultos Sargento Juan Bautista Cabral!\n\nCon La S@rgento Streaming pusimos micrófono, cámara y muchas ganas para compartir lo que hacemos en el colegio. ¡Gracias a todos los que nos acompañaron!\n\n#SNCYT2026 #SemanaDeLaCienciaYLaTecnología #LaSargentoStreaming #EscuelaSecundaria Ciencia Tecnología Corrientes"
+        },
+        {
+          "type": "photos",
+          "images": [
+            {
+              "src": "images/2026-09-30-la-sargento-streaming/mvbxokc2-1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-sargento-streaming/mvbxomlg-2.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-sargento-streaming/mvbxoo01-3.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-sargento-streaming/mvbxopbu-4.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-sargento-streaming/mvbxoqog-5.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-la-sargento-streaming/mvbxorxu-6.jpg",
+              "caption": ""
+            }
+          ]
+        }
+      ],
+      "created": 1792213575136,
+      "updated": 1792213575136
+    },
+    {
       "id": "2024-09-15-semana-nacional-de-la-ciencias-y-la-tecnologias",
       "title": "🤖Semana Nacional de la Ciencias y la Tecnologías",
       "date": "2024-09-15",

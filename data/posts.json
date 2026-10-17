@@ -2,6 +2,68 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-09-30-asi-vivimos-la-sncyt-2026",
+      "title": "¡Así vivimos la SNCyT 2026!",
+      "date": "2026-09-30",
+      "tags": [
+        "SNCYT2026",
+        "semana de la ciencia",
+        "robótica",
+        "juegos"
+      ],
+      "cover": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxsvvz-1.jpg",
+      "summary": "🔬✨ ¡Así vivimos la SNCyT 2026! ✨🔬 Durante la Semana Nacional de la Ciencia y la Tecnología, el Colegio Secundario para Adolescentes y Adultos \"Sargento Juan B",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "🔬✨ ¡Así vivimos la SNCyT 2026! ✨🔬\n\nDurante la Semana Nacional de la Ciencia y la Tecnología, el Colegio Secundario para Adolescentes y Adultos \"Sargento Juan B. Cabral\" se llenó de ideas, juegos y proyectos que muestran todo lo que se puede aprender cuando la curiosidad se pone en marcha.\n\n🧮 Juegos matemáticos hechos a mano: triángulo numérico, crucigrama matemático y ruleta de fracciones.\n🤖 Robótica: un robot jugando al fútbol.\n🔐 Sistema de control de acceso con Arduino y lector de huellas.\n👩‍🏫 Presencia del Profesorado de Educación Secundaria en Informática del IFD de Gdor. Virasoro.\n\nGracias a estudiantes, docentes y visitantes por hacer posible esta muestra. 👏\n\n📍 Santo Tomé, Corrientes\n🤝 Con nuestros amigos de @codeclubnanduti\n\n#SNCyT2026 #SemanaDeLaCiencia #CienciaYTecnologia #Robotica #Arduino Programacion Matematica EducacionSecundaria SantoTomeCorrientes Corrientes Argentina STEM FeriaDeCiencias"
+        },
+        {
+          "type": "photos",
+          "images": [
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxsvvz-1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxsxig-2.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxsyt4-3.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxt01b-4.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxt1d8-5.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxt2g2-6.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxt3hq-7.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxt4ji-8.jpg",
+              "caption": ""
+            },
+            {
+              "src": "images/2026-09-30-asi-vivimos-la-sncyt-2026/mvbxt5ki-9.jpg",
+              "caption": ""
+            }
+          ]
+        }
+      ],
+      "created": 1792213779498,
+      "updated": 1792213779498
+    },
+    {
       "id": "2026-09-30-la-semana-de-la-ciencia-y-la-tecnologia",
       "title": "La Semana de la Ciencia y la Tecnología",
       "date": "2026-09-30",
